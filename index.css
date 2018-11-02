@@ -4,3 +4,19 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;} 
+
+h1  {
+    font-style: oblique;
+    color: white; 
+}
+h2 { font-style: oblique;
+     color: white; 
+  
+}
+p { color: white ; 
+   font-style: oblique;
+
+}
+h3{  color: white ; 
+   font-style: oblique;
+}
