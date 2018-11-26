@@ -4,20 +4,26 @@ body {
     background-repeat: no-repeat;
     background-size: cover;} 
 
+
 h1  {
     font-style: oblique;
     color: white; 
+    text-align: center;
 }
 h2 { font-style: oblique;
      color: white; 
+     text-align: center;
   
 }
-p { color: white ; 
+p {color: white ; 
    font-style: oblique;
+   text-align: center;
 
 }
 h3{  color: white ; 
    font-style: oblique;
+    text-align: center;
 }
 li{ color: white; 
+  text-align: center;
 } 
