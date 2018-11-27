@@ -12,23 +12,23 @@ body {
 
 h1  {
     font-style: oblique;
-    color: white; 
+    
     text-align: center;
 }
 h2 { font-style: oblique;
-     color: white; 
+    
      text-align: center;
   
 }
-p {color: white; 
+p { 
    font-style: oblique;
    text-align: center;
 
 }
-h3 { color: white ; 
+h3 { 
     font-style: oblique;
     text-align: center;
 }
-li  { color: white; 
+li  { 
    text-align: center;
 } 
