@@ -1,9 +1,14 @@
 body {
-    background-image: url("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;} 
-
+  background-image: url("https://i.pinimg.com/originals/38/e6/86/38e6861341132a1ee298c9725c6c67a5.jpg");
+  font-style: italic; 
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; 
+  color: pink; 
+  padding: 35px;
+} 
 
 h1  {
     font-style: oblique;
@@ -20,10 +25,10 @@ p {color: white;
    text-align: center;
 
 }
-h3  color: white ; 
+h3 { color: white ; 
     font-style: oblique;
     text-align: center;
 }
-li{ color: white; 
+li  { color: white; 
    text-align: center;
 } 
